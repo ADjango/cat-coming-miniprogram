@@ -1,0 +1,15 @@
+{
+  "name": "cat-coming",
+  "version": "1.0.0",
+  "description": "猫来了App",
+  "main": "app.js",
+  "dependencies": {
+    "@vant/weapp": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liqian",
+  "license": "ISC"
+}
